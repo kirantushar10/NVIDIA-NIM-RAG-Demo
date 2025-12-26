@@ -34,3 +34,29 @@ This project is a simple Retrieval-Augmented Generation (RAG) demo built to show
 - 🤖 Large Language Model (LLM): Uses a NVIDIA-hosted LLaMA 3.3 (70B Instruct) model to generate context-aware answers.
 
 - 🖥️ User Interface: Streamlit-based UI that allows users to embed documents, ask questions, and view responses.
+
+## 🚀 Getting Started
+
+### ⚙️ Environment Setup
+
+```bash
+NVIDIA_API_KEY=your_nvidia_api_key_here
+```
+
+### 📦 Installation
+```bash
+git clone https://github.com/kirantushar10/NVIDIA-NIM-RAG-Demo.git
+cd NVIDIA-NIM-RAG-Demo
+
+python -m venv venv
+source venv/bin/activate   # Linux / macOS
+venv\Scripts\activate      # Windows
+
+pip install -r requirements.txt
+```
+
+### ▶️ Run the App
+```bash
+streamlit run finalapp.py
+```
+
