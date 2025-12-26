@@ -11,13 +11,9 @@ Load PDFs • Embed with NVIDIA • Retrieve Context • Generate Answers — al
 ## 🌟 Overview
 This project is a simple Retrieval-Augmented Generation (RAG) demo built to showcase how NVIDIA NIM can be used with modern LLM tooling to answer questions from private documents. The application allows users to: 
 
-✔️ Load PDF documents from a local directory
+✔️ Load PDF documents from a local directory and Convert them into vector embeddings using NVIDIA-hosted models
 
-✔️ Convert them into vector embeddings using NVIDIA-hosted models
-
-✔️ Retrieve the most relevant document chunks
-
-✔️ Generate accurate answers using a large language model
+✔️ Retrieve the most relevant document chunks and Generate accurate answers using a large language model
 
 ✔️ The entire pipeline is wrapped in an interactive Streamlit interface, making it easy to experiment with RAG concepts using NVIDIA’s AI ecosystem.
 
