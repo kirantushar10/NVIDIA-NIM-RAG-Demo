@@ -1,4 +1,4 @@
-# 🚀 NVIDIA NIM RAG Demo (Streamlit)
+# 🚀 **NVIDIA NIM RAG Demo (Streamlit)**
 
 <div align="center">
 🚀✨ A simple Retrieval-Augmented Generation (RAG) demo using NVIDIA NIM with Streamlit ✨🚀
