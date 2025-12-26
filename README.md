@@ -59,4 +59,11 @@ pip install -r requirements.txt
 ```bash
 streamlit run finalapp.py
 ```
+## 📜 License
 
+This project is licensed under the GPL-3.0 license.
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to fork the repository and submit a pull request.
