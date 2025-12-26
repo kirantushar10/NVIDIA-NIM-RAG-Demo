@@ -9,7 +9,7 @@ Load PDFs • Embed with NVIDIA • Retrieve Context • Generate Answers — al
 </div>
 
 ## 🌟 Overview
-<l>This project is a simple Retrieval-Augmented Generation (RAG) demo built to showcase how NVIDIA NIM can be used with modern LLM tooling to answer questions from private documents. The application allows users to:</l>
+This project is a simple Retrieval-Augmented Generation (RAG) demo built to showcase how NVIDIA NIM can be used with modern LLM tooling to answer questions from private documents. The application allows users to: 
 
 ✔️ Load PDF documents from a local directory
 
