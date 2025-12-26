@@ -18,3 +18,19 @@ This project is a simple Retrieval-Augmented Generation (RAG) demo built to show
 ✔️ The entire pipeline is wrapped in an interactive Streamlit interface, making it easy to experiment with RAG concepts using NVIDIA’s AI ecosystem.
 
 ✔️ This project is intended for learning, demos, and experimentation, not production deployment.
+
+## 🧩 Core Components
+
+- 📄 Document Loader: Loads PDF files from a local directory using LangChain’s PDF loader.
+
+- ✂️ Text Splitter: Breaks documents into smaller overlapping chunks for better context retrieval.
+
+- 🧠 Embedding Model: Uses NVIDIA NIM embeddings to convert text chunks into vector representations.
+
+- 📦 Vector Store: Stores embeddings in FAISS for fast and efficient similarity search.
+
+- 🔍 Retriever: Fetches the most relevant document chunks based on the user’s query.
+
+- 🤖 Large Language Model (LLM): Uses a NVIDIA-hosted LLaMA 3.3 (70B Instruct) model to generate context-aware answers.
+
+- 🖥️ User Interface: Streamlit-based UI that allows users to embed documents, ask questions, and view responses.
